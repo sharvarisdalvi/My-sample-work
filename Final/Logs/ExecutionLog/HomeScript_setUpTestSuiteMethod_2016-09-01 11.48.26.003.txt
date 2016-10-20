@@ -1,0 +1,10 @@
+Sep 01,2016 11:48:26 [info]  ENTERING THE TEST METHOD :: setUpTestSuiteMethod
+Sep 01,2016 11:48:52 [info]  Host Machine Name : PUNITP349827D
+Sep 01,2016 11:48:52 [info]  Host Machine Address : 10.76.171.165
+Sep 01,2016 11:48:52 [info]  Operating System : Windows 8.1
+Sep 01,2016 11:48:52 [info]  Architecture : x86
+Sep 01,2016 11:48:52 [info]  Browser : chrome, version : 49.0.2623.87
+Sep 01,2016 11:49:09 [info]  org.openqa.selenium.WebDriverException: Incorrect Locator Format
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PUNITP349827D', ip: '10.76.171.165', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.7.0_76'
+Driver info: driver.version: unknown

@@ -1,0 +1,8 @@
+Oct 12,2016 14:39:04 [info]  ENTERING THE TEST METHOD :: setUpTestSuiteMethod
+Oct 12,2016 14:39:18 [info]  Host Machine Name : PUNITP349827D
+Oct 12,2016 14:39:18 [info]  Host Machine Address : 10.76.171.165
+Oct 12,2016 14:39:18 [info]  Operating System : Windows 8.1
+Oct 12,2016 14:39:18 [info]  Architecture : x86
+Oct 12,2016 14:39:18 [info]  Browser : chrome, version : 49.0.2623.87
+Oct 12,2016 14:39:33 [info]  Successfully opened URL - https://www.antheminc.com/in Chrome
+Oct 12,2016 14:39:33 [info]  EXITING THE TEST METHOD :: setUpTestSuiteMethod

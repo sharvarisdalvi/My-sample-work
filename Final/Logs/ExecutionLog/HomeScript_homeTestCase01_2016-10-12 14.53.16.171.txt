@@ -1,0 +1,2 @@
+Oct 12,2016 14:53:16 [info]  ENTERING THE TEST METHOD :: homeTestCase01
+Oct 12,2016 14:53:16 [info]  Anthem  Application logo is present

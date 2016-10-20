@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[ENTERING THE TEST METHOD :: setUpTestSuiteMethod]]>
+    </line>
+    <line>
+      <![CDATA[Host Machine Name : PUNITP349827D]]>
+    </line>
+    <line>
+      <![CDATA[Host Machine Address : 10.76.171.165]]>
+    </line>
+    <line>
+      <![CDATA[Operating System : Windows 8.1]]>
+    </line>
+    <line>
+      <![CDATA[Architecture : x86]]>
+    </line>
+    <line>
+      <![CDATA[Browser : chrome, version : 49.0.2623.87]]>
+    </line>
+    <line>
+      <![CDATA[Successfully opened URL - https://www.antheminc.com/in Chrome]]>
+    </line>
+    <line>
+      <![CDATA[EXITING THE TEST METHOD :: setUpTestSuiteMethod]]>
+    </line>
+    <line>
+      <![CDATA[ENTERING THE TEST METHOD :: homeTestCase01]]>
+    </line>
+    <line>
+      <![CDATA[Anthem  Application logo is present]]>
+    </line>
+    <line>
+      <![CDATA[ENTERING THE TEST METHOD :: homeTestCase02]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32408" started-at="2016-10-12T09:22:45Z" finished-at="2016-10-12T09:23:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32408" started-at="2016-10-12T09:22:45Z" finished-at="2016-10-12T09:23:17Z">
+      <class name="com.scripts.HomeScript">
+        <test-method status="PASS" signature="setUpTestSuiteMethod()[pri:0, instance:com.scripts.HomeScript@d8cc78]" name="setUpTestSuiteMethod" is-config="true" duration-ms="30945" started-at="2016-10-12T14:52:45Z" finished-at="2016-10-12T14:53:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ENTERING THE TEST METHOD :: setUpTestSuiteMethod]]>
+            </line>
+            <line>
+              <![CDATA[Host Machine Name : PUNITP349827D]]>
+            </line>
+            <line>
+              <![CDATA[Host Machine Address : 10.76.171.165]]>
+            </line>
+            <line>
+              <![CDATA[Operating System : Windows 8.1]]>
+            </line>
+            <line>
+              <![CDATA[Architecture : x86]]>
+            </line>
+            <line>
+              <![CDATA[Browser : chrome, version : 49.0.2623.87]]>
+            </line>
+            <line>
+              <![CDATA[Successfully opened URL - https://www.antheminc.com/in Chrome]]>
+            </line>
+            <line>
+              <![CDATA[EXITING THE TEST METHOD :: setUpTestSuiteMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTestSuiteMethod -->
+        <test-method status="PASS" signature="homeTestCase01()[pri:0, instance:com.scripts.HomeScript@d8cc78]" name="homeTestCase01" duration-ms="70" started-at="2016-10-12T14:53:16Z" finished-at="2016-10-12T14:53:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ENTERING THE TEST METHOD :: homeTestCase01]]>
+            </line>
+            <line>
+              <![CDATA[Anthem  Application logo is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homeTestCase01 -->
+        <test-method status="PASS" signature="homeTestCase02()[pri:0, instance:com.scripts.HomeScript@d8cc78]" name="homeTestCase02" duration-ms="1374" started-at="2016-10-12T14:53:16Z" finished-at="2016-10-12T14:53:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ENTERING THE TEST METHOD :: homeTestCase02]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homeTestCase02 -->
+      </class> <!-- com.scripts.HomeScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

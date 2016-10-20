@@ -1,0 +1,7 @@
+Oct 12,2016 14:39:37 [info]  ENTERING THE TEST METHOD :: homeTestCase02
+Oct 12,2016 14:39:37 [info]  Legal tab  is present
+Oct 12,2016 14:39:37 [info]  Privacy tab is present
+Oct 12,2016 14:39:37 [info]  Associates tab  is present
+Oct 12,2016 14:39:37 [info]  Suppliers tab is present
+Oct 12,2016 14:39:37 [info]  SiteMap tab is present
+Oct 12,2016 14:39:37 [info]  ContactUs is present

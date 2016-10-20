@@ -1,0 +1,3 @@
+Oct 07,2016 12:25:54 [info]  ENTERING THE TEST METHOD :: homeTestCase01
+Oct 07,2016 12:25:58 [info]  Browser Title Anthem, Inc. matches with expected - Anthem, Inc.
+Oct 07,2016 12:25:58 [info]  Anthem  Application logo is present
